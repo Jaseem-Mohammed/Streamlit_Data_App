@@ -16,3 +16,8 @@ Streamlit is a python library wich allows you to create interactive data apps li
 The name of the players in each team can be seen while we hover over each bar.
 
 ![Example 3](https://github.com/Jaseem-Mohammed/Streamlit_Data_App/blob/main/images/streamlit_2.JPG)
+
+## Note:
+- You must have streamlit library installed.
+- For running the script open terminal of your ide or any python terminal
+- Then tupe streamlit run [location of the file]/app.py
